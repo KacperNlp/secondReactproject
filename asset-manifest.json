@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/secondReactproject/static/css/main.5f361e03.chunk.css",
+    "main.js": "/secondReactproject/static/js/main.b8266f12.chunk.js",
+    "main.js.map": "/secondReactproject/static/js/main.b8266f12.chunk.js.map",
+    "runtime-main.js": "/secondReactproject/static/js/runtime-main.3d9253ab.js",
+    "runtime-main.js.map": "/secondReactproject/static/js/runtime-main.3d9253ab.js.map",
+    "static/js/2.763b34e5.chunk.js": "/secondReactproject/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/secondReactproject/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/secondReactproject/index.html",
+    "precache-manifest.8ac15e33f50f465f92d00eb77c56a47f.js": "/secondReactproject/precache-manifest.8ac15e33f50f465f92d00eb77c56a47f.js",
+    "service-worker.js": "/secondReactproject/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/secondReactproject/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/secondReactproject/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/secondReactproject/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9253ab.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b8266f12.chunk.js"
+  ]
+}
